@@ -1,0 +1,22 @@
+El sistema debe permitir ingresar tu nombre, peso, talla y edad.
+1.	El usuario ingresa a WhatsApp 
+2.	El usuario saluda al bot para inicializarlo.
+3.	El usuario ingresa en texto o audio la información.
+4.	El sistema valida que todos los datos estén ingresados
+5.	El sistema muestra un saludo de éxito.
+
+
+El sistema debe permitir al usuario ingresar sus alimentos diario y contar las calorias al final del día
+1. El usuario válida sus datos.
+2. El usuario ingresar algún alimento.
+3. El sistema muestra un mensaje con el alimento y sus calorías registrada.
+4. El usuario pide información de sus calorías.
+5 e sistema muestra las calorías con éxito.
+6. Al final del día el sistema muestra automáticamente las calorías totales
+
+
+El sistema debe permitir dar una rutina de ejercicio.
+1. El usuario ingresar su meta.
+2. El sistema da un plan de ejercicios.
+3. El usuario válida el seguimiento del plan.
+4. El sistema acomoda el plan de acuerdo a los resultados
